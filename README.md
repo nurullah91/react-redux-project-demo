@@ -7,6 +7,11 @@
 ### Server code: https://github.com/nurullah91/capture-academy-server
 ### Server live link: https://capture-academy-server.vercel.app/
 
+### Project Name __Toy wala__
+### Live link:https: //toy-wala-7032c.web.app/
+### Front end code: https://github.com/nurullah91/toy-walla-client
+### Server code: https://github.com/nurullah91/Toy-wala-server
+
 
 
 
